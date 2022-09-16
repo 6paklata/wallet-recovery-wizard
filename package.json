@@ -18,7 +18,7 @@
   "dependencies": {
     "autoprefixer": "8.6.5",
     "bitgo-utxo-lib": "1.2.1",
-    "bootstrap": "4.1.1",
+    "bootstrap": "4.3.1",
     "case-sensitive-paths-webpack-plugin": "2.1.2",
     "chalk": "2.4.1",
     "classnames": "^2.2.6",
